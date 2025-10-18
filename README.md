@@ -87,7 +87,6 @@ The interactive Power BI dashboard includes:
 ---
 
 ## 📊 Dashboard Preview
-> *(Insert your Power BI dashboard screenshot below)*
 
 <img width="1463" height="812" alt="Image" src="https://github.com/user-attachments/assets/88bf8ec6-3210-48b6-b6a3-bb50edc810e7" />
 
