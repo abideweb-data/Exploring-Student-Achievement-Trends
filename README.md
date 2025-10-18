@@ -1,6 +1,6 @@
 # 🎓 Exploring Student Achievement Trends  
 
-
+![Image](https://github.com/user-attachments/assets/dab2d3f5-2417-436b-8ae7-9ef59262b592)
 ---
 
 [![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)]()
