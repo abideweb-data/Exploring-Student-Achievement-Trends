@@ -1,7 +1,6 @@
 # 🎓 Exploring Student Achievement Trends  
 
-![Dashboard Preview](./dashboard-preview.png)
-*(Replace this image with a screenshot of your Power BI dashboard)*
+<img width="1463" height="812" alt="Image" src="https://github.com/user-attachments/assets/88bf8ec6-3210-48b6-b6a3-bb50edc810e7" />
 
 ---
 
